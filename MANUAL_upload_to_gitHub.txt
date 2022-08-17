@@ -1,0 +1,10 @@
+How to up to git hub
+
+1-cmd
+2-locate file to envite (cd "locate")
+3-delete the .git files to avoid errors (rd .git /S/Q)
+4-create .git repository (git init)
+5-select all files to envite (git add .)
+6-commit (git commit -m "first commit")
+7-envite to github (git remote add origin "link")
+8-upload files to github (git push -u origin master)
